@@ -20,6 +20,26 @@
             "name": "send_button",
             "rank": 1,
             "value": "text"
+        },
+        "AAG": {
+            "caption": "Reset Input",
+            "default_val": true,
+            "doc": "Reset the input after sending",
+            "editor": "Checkbox",
+            "in_style": false,
+            "name": "reset_input",
+            "options": "true,false",
+            "rank": 2
+        },
+        "AAH": {
+            "caption": "Set Focus on input",
+            "default_val": true,
+            "doc": "Set focus on the input after sending",
+            "editor": "Checkbox",
+            "in_style": false,
+            "name": "restore_input",
+            "options": "true,false",
+            "rank": 3
         }
     },
     "icon": "ion-android-send",
