@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "chat",
+        "1": "containers"
+    },
+    "data_tracked": false,
+    "demo_page": "https://plugins-by-eny.bubbleapps.io/version-test/enter_send",
+    "description": "Your multi-line input and send button combo doesn't work as expected? SOLVED✅\n\n\n________________________________________________\n\n\n\n1️⃣ Add the \"Send↵\" element to  your page.\n\n2️⃣Enter the input and send button id.\n\n\n\n________________________________________________\n\n\n𝗗𝗲𝗺𝗼: https://plugins-by-eny.bubbleapps.io/version-test/enter_send\n\n𝗘𝗱𝗶𝘁𝗼𝗿: https://bubble.io/page?type=page&name=enter_send&id=plugins-by-eny&test_plugin=1716322147996x843398543897788400_current&tab=tabs-1\n\n𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗹𝗶𝗻𝗸: https://buildlaunch.dev",
+    "image": "//meta-q.cdn.bubble.io/f1719410219866x545415856400395700/enter.gif",
+    "license": "open_source",
+    "link": "https://buildlaunch.dev",
+    "name": "Send With Enter",
+    "plugin_instructions": "1️⃣ Add the \"Send↵\" element to  your page.\n\n2️⃣Enter the input and send button id.\n"
+}

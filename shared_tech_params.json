@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAF": {
+            "name": "element icon",
+            "url": "//meta-q.cdn.bubble.io/f1719412048895x164198644977564500/enter-12.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}

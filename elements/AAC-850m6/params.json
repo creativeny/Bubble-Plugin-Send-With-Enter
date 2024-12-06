@@ -1,0 +1,29 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "Send ↵",
+    "fields": {
+        "AAD": {
+            "caption": "Input ID",
+            "editor": "DynamicValue",
+            "name": "input_text",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "Button ID",
+            "editor": "DynamicValue",
+            "name": "send_button",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-send",
+    "property_applications": {
+        "resizable": true
+    }
+}
